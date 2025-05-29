@@ -57,13 +57,14 @@ The aim is to design and implement a 6T SRAM (Static Random-Access Memory) cell 
 
 ![Screenshot 2025-04-25 212707](https://github.com/user-attachments/assets/cdfa7b48-c4ca-46fa-a86c-18d3fc6c1a56)
 
+![Screenshot 2025-05-29 092311](https://github.com/user-attachments/assets/ff5df77a-8bf9-4bae-9028-2cf8c5005244)
 
-![Screenshot 2025-04-25 213808](https://github.com/user-attachments/assets/149c5e2a-09fc-4d5d-87f9-c24c4cdb3678)
 
 
 
 ## Results:
 1. Successfully designed the 6T SRAM cell schematic using Cadence EDA tools.
+
 2. Performed transient analysis, verifying the read and write operations of the SRAM cell.
 3. Observed correct switching behavior in response to control signals.
 
